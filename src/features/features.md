@@ -1,6 +1,6 @@
-Here is a template for features:
+ Here is a template for features:
 
-const {
+ const {
 client
 } = require('discord.js');
 
